@@ -1,0 +1,24 @@
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Downloaded files
+*.tar.xz
+*.tar.gz
+*.zip
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Cache and backup files
+*.bak
+*.cache

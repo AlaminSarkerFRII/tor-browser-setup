@@ -22,8 +22,8 @@ A simple bash script to automatically download and install the latest version of
 ### Method 1: Git Clone (Recommended)
 
 ```bash
-git clone https://github.com/YOURUSERNAME/tor-installer.git
-cd tor-installer
+git clone https://github.com/AlaminSarkerFRII/tor-browser-setup.git
+cd tor-browser-setup
 chmod +x install.sh
 ./install.sh
 ```
@@ -31,7 +31,7 @@ chmod +x install.sh
 ### Method 2: Direct Download
 
 ```bash
-curl -O https://raw.githubusercontent.com/YOURUSERNAME/tor-installer/main/install.sh
+curl -O https://raw.githubusercontent.com/AlaminSarkerFRII/tor-browser-setup/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
@@ -102,7 +102,7 @@ This project is open source. Feel free to modify and distribute according to you
 ## Author
 
 - **Script**: Tor Browser Auto Installer
-- **Repository**: https://github.com/YOURUSERNAME/tor-installer
+- **Repository**: https://github.com/AlaminSarkerFRII/tor-browser-setup
 - **Official Tor Project**: https://www.torproject.org/
 
 ---
